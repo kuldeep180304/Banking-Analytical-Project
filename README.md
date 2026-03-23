@@ -240,10 +240,6 @@ The project successfully demonstrates how **Exploratory Data Analysis (EDA)** ca
 
 ## 📷 Output / Screenshots
 
-Add your notebook graphs or dashboard screenshots in this section.
-
-### Suggested visuals to include
-
 - Correlation Heatmap
 
 <img width="747" height="774" alt="Heatmap" src="https://github.com/user-attachments/assets/0f15b3ab-cb01-4a1f-94c6-82223832899f" />
@@ -256,15 +252,12 @@ Add your notebook graphs or dashboard screenshots in this section.
 
 ---
 
-- Customer Behavior Analysis
-- Loan Analysis Dashboard
-- Deposit Analysis Dashboard
-- Analytical Overview Dashboard
+#Demo video
 
-### Example
 
-```md
-![Home Dashboard](images/home_dashboard.png)
-![Loan Analysis](images/loan_analysis.png)
-![Deposit Analysis](images/deposit_analysis.png)
-![Analytical Overview](images/analytical_overview.png)
+https://github.com/user-attachments/assets/b1b39433-438e-494a-b0ee-c010c218a31e
+
+
+
+
+
