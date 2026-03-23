@@ -148,6 +148,10 @@ This project can be presented through a dashboard with the following sections:
 ### 🏠 Home Page
 The home page provides a summary view of the complete banking analysis, including major KPIs, overall trends, and high-level findings.
 
+<img width="1433" height="791" alt="Home page" src="https://github.com/user-attachments/assets/4f097fe4-5b0d-4d85-ae0d-39ee55b7e013" />
+
+---
+
 ### 💳 Loan Analysis
 This section focuses on loan-related patterns, such as:
 
@@ -155,6 +159,10 @@ This section focuses on loan-related patterns, such as:
 - Loan category trends
 - Customer loan behavior
 - Loan-related financial observations
+
+<img width="1424" height="795" alt="Loan Analysis" src="https://github.com/user-attachments/assets/fcb89d96-fb8b-43fb-a8d7-02513a163676" />
+
+---
 
 ### 💰 Deposit Analysis
 This section analyzes deposit-related patterns, including:
@@ -164,6 +172,10 @@ This section analyzes deposit-related patterns, including:
 - Customer deposit behavior
 - Deposit growth patterns
 
+<img width="1433" height="798" alt="Deposit Analyais" src="https://github.com/user-attachments/assets/2f7ba42a-ca6c-4fe0-85d0-5ce0ca2cb541" />
+
+---
+
 ### 📈 Analytical Overview
 This section provides a consolidated analytical summary, including:
 
@@ -171,6 +183,9 @@ This section provides a consolidated analytical summary, including:
 - Financial performance metrics
 - Correlation insights
 - Risk and anomaly observations
+
+<img width="1430" height="795" alt="Analytic Overview" src="https://github.com/user-attachments/assets/e435f629-c7b2-4d5b-8864-2df37a92cf05" />
+
 
 ---
 
