@@ -245,7 +245,17 @@ Add your notebook graphs or dashboard screenshots in this section.
 ### Suggested visuals to include
 
 - Correlation Heatmap
+
+<img width="747" height="774" alt="Heatmap" src="https://github.com/user-attachments/assets/0f15b3ab-cb01-4a1f-94c6-82223832899f" />
+
+---
+
 - Transaction Distribution Graph
+
+<img width="1874" height="980" alt="Transaction Distribution Graph" src="https://github.com/user-attachments/assets/ef6fb29c-4e59-4b10-8202-fa341244852f" />
+
+---
+
 - Customer Behavior Analysis
 - Loan Analysis Dashboard
 - Deposit Analysis Dashboard
