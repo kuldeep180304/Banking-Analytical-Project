@@ -1,5 +1,7 @@
 # Banking-Analytical-Project
 # 🏦 Banking Analysis using Exploratory Data Analysis (EDA)
+Banking data analysis project using Python EDA and dashboard reporting to uncover customer, loan, and deposit insights.
+---
 
 ## 📊 Project Overview
 
